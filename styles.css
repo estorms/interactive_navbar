@@ -1,0 +1,19 @@
+/*
+
+
+When the user clicks on one of the links, the element that contains the link should grow in size by 5px on the left and right.  */
+
+
+a:hover {
+   color: firebrick;
+}
+
+li a:hover {
+    background-color: black;
+}
+
+ul li a:active {
+  padding-left: 5px;
+  padding-right: 5px;
+  }
+
